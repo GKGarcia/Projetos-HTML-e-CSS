@@ -9,12 +9,12 @@
     s
 
     a{
-        text-decoration:underline;
+        text-decoration:none;
         color:white;
     }
 
 </style>
 
-<a href="social-links-profile-main/">Social Links</a>
+<div><a href="social-links-profile-main/">Social Links</a></div>
 <a href="Android/">Android</a>
 <a href="recipe-page-main/">Receita</a>
