@@ -1,5 +1,5 @@
 # Projetos
- Projetos HTML e CSS
+ Meus Projetos em HTML e CSS, clique nos links abaixo.
 
  <style>
     body{
@@ -24,8 +24,8 @@
 
 </style>
 
-<div class="link"><a href="recipe-page-main/"target="blank">Social Links</a></div>
+<div class="link"><a href="recipe-page-main/" target="blank">Social Links</a></div>
 
 <div class="link"><a href="Android/" target="blank">Android</a></div>
 
-<div class="link"><a href="recipe-page-main/"target="blank">Receita</a></div>
+<div class="link"><a href="recipe-page-main/" target="blank">Receita</a></div>
