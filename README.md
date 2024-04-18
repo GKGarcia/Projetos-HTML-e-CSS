@@ -6,26 +6,21 @@
         background-color:black;
         color:white;
     }
-    s
 
     .link{
      padding: 15px;
-    background-color: white;
-   width: 250px;
-   margin: 10px  60px 10px 60px;
-   border-radius: 10px;
-   text-align: center;
+   
     }
 
-    .link> a{
+    .link a{
         text-decoration:underline;
         color:white;
     }
 
 </style>
 
-<div class="link"><a href="social-links-profile-main/">Social Links</a></div>
+<div class="link"><a href="social-links-profile-main/"target="blank">Social Links</a></div>
 
-<div class="link"><a href="Android/">Android</a></div>
+<div class="link"><a href="Android/" target="blank">Android</a></div>
 
-<div class="link"><a href="recipe-page-main/">Receita</a></div>
+<div class="link"><a href="recipe-page-main/"target="blank">Receita</a></div>
