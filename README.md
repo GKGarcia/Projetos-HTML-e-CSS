@@ -24,7 +24,7 @@
 
 </style>
 
-<div class="link"><a href="social-links-profile-main/"target="blank">Social Links</a></div>
+<div class="link"><a href="recipe-page-main/"target="blank">Social Links</a></div>
 
 <div class="link"><a href="Android/" target="blank">Android</a></div>
 
