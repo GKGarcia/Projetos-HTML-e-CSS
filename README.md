@@ -9,6 +9,11 @@
 
     .link{
      padding: 15px;
+     background-color: hsl(0, 0%, 20%);
+   width: 250px;
+   margin: 10px  60px 10px 60px;
+   border-radius: 10px;
+   text-align: center;
    
     }
 
