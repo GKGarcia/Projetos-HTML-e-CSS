@@ -10,7 +10,7 @@
 
     .link{
      padding: 15px;
-    background-color: hsl(0, 0%, 20%);
+    background-color: white;
    width: 250px;
    margin: 10px  60px 10px 60px;
    border-radius: 10px;
@@ -18,7 +18,7 @@
     }
 
     .link> a{
-        text-decoration:none;
+        text-decoration:underline;
         color:white;
     }
 
