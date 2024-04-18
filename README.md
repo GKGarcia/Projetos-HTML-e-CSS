@@ -4,6 +4,13 @@
  <style>
     body{
         background-color:black;
+        color:white;
+    }
+    s
+
+    a{
+        text-decoration:underline;
+        color:white;
     }
 
 </style>
