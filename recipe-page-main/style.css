@@ -1,0 +1,62 @@
+body{
+    background-color: bisque;
+}
+
+main{
+    margin: auto;
+    background-color: white;
+    width: 600px;
+    padding: 25px;
+    border-radius: 10px;
+   
+}
+
+main h2{
+    color:hsl(14, 45%, 36%);
+}
+
+img{
+    width: 100%;
+}
+
+#list{
+background-color: hsl(330, 100%, 98%);
+padding: 6px 15px 6px 15px;
+border-radius: 10px;
+}
+
+#list h2{
+   color: hsl(332, 51%, 32%)
+}
+
+main li{
+    padding: 5px;
+}
+
+ol {
+    list-style: none; /* Removendo os estilos padrão das listas */
+    padding: 0; /* Removendo o preenchimento padrão */
+  }
+
+  li {
+    counter-increment: my-counter; /* Incrementando o contador personalizado */
+  }
+
+  li::before {
+    content:counter(my-counter)"."; 
+    color:hsl(14, 45%, 36%); 
+    font-weight: bold;
+    margin-right: 5px;
+  }
+
+
+.tabela{
+  color:hsl(14, 45%, 36%);
+  float: right;
+  margin-right: 220px;
+}
+
+.pe{
+    padding-top: 35px;
+    text-align: center;
+}
